@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "shubham",
+      "lastname": "vibhute",
+      "email": "shubhamvibhute20@gmail.com",
+      "checkbox": "true"
+    },
+    {
+      "id": "2",
+      "firstname": "Vipul",
+      "lastname": "Thanekar",
+      "email": "thanekarvipul@gmail.com",
+      "checkbox": "true"
+    },
+    {
+      "id": "3",
+      "firstname": "gaurav",
+      "lastname": "patil",
+      "email": "gauravpatil@gmail.com",
+      "checkbox": "true"
+    },
+    {
+      "id": "4",
+      "firstname": "sourabh",
+      "lastname": "patil",
+      "email": "patilsourabh@gmail.com",
+      "checkbox": "false"
+    }
+  ]
+}
